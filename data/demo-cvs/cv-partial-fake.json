@@ -1,0 +1,63 @@
+{
+  "name": "CV Partiellement Faux",
+  "studentName": "Eya Toumi",
+  "cvText": "Eya Toumi - Étudiante en informatique\n📧 teya5466@gmail.com | 📞 51906705 | 📍 8030 Grombalia\n\nPROFIL\nÉtudiante en 3ème année du cycle ingénieur en informatique à ESPRIT.\n\nFORMATION\n2026 – Cycle ingénieur en informatique (3ème année), Esprit, Tunisie\n2024 – Baccalauréat Sciences, Lycée Ibnu Sina, Grombalia\n- Master en Intelligence Artificielle, MIT, juin 2025\n\nEXPÉRIENCES & STAGES\njuil. 2026 – 9antra (The Bridge)\nStage avec formation : Développement Front-End avec Angular (1 mois)\n\njuil. 2025 – Mondial Flexible, Ariana\nStage en développement web\n\n- Lead Developer chez Google, mars 2024\n\nCERTIFICATIONS\nHedera Certified Foundation (HCF) – The Hashgraph Association, juil. 2026\nHedera Business Foundation (HBF) – The Hashgraph Association, juil. 2026",
+  "claims": [
+    {
+      "type": "diploma",
+      "title": "Cycle ingénieur en informatique",
+      "student": "Eya Toumi",
+      "date": "2026-01-01",
+      "issuer": "Esprit"
+    },
+    {
+      "type": "diploma",
+      "title": "Baccalauréat Sciences",
+      "student": "Eya Toumi",
+      "date": "2024-01-01",
+      "issuer": "Lycée Ibnu Sina"
+    },
+    {
+      "type": "diploma",
+      "title": "Master en Intelligence Artificielle",
+      "student": "Eya Toumi",
+      "date": "2025-06-01",
+      "issuer": "MIT"
+    },
+    {
+      "type": "internship",
+      "title": "Stage Développement Front-End avec Angular",
+      "student": "Eya Toumi",
+      "date": "2026-07-01",
+      "issuer": "9antra"
+    },
+    {
+      "type": "internship",
+      "title": "Stage chez Mondial Flexible",
+      "student": "Eya Toumi",
+      "date": "2025-07-01",
+      "issuer": "Mondial Flexible"
+    },
+    {
+      "type": "internship",
+      "title": "Lead Developer",
+      "student": "Eya Toumi",
+      "date": "2024-03-01",
+      "issuer": "Google"
+    },
+    {
+      "type": "certification",
+      "title": "Hedera Certified Foundation (HCF)",
+      "student": "Eya Toumi",
+      "date": "2026-07-01",
+      "issuer": "The Hashgraph Association"
+    },
+    {
+      "type": "certification",
+      "title": "Hedera Business Foundation (HBF)",
+      "student": "Eya Toumi",
+      "date": "2026-07-01",
+      "issuer": "The Hashgraph Association"
+    }
+  ]
+}

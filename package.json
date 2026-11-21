@@ -1,0 +1,18 @@
+{
+  "name": "trustcv",
+  "version": "1.0.0",
+  "description": "TrustCV - Agent IA qui vérifie et résume un CV en croisant les preuves ancrées sur Hedera",
+  "main": "server.js",
+  "scripts": {
+    "seed": "node scripts/seed.js",
+    "issue": "node scripts/issue.js",
+    "test-verify": "node scripts/test-verify.js",
+    "start": "node server.js"
+  },
+  "keywords": ["hedera", "hcs", "ai", "cv", "verification"],
+  "license": "ISC",
+  "dependencies": {
+    "@hiero-ledger/sdk": "^2.90.0",
+    "dotenv": "^16.4.5"
+  }
+}
